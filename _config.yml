@@ -88,7 +88,7 @@ author:
   avatar           : "/images/linkedin.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Pricing and Inventory Management Professional"
   location         : "Brooklyn, NY"
-  email            : "hrockhill3@gmail.com"
+  email            : #"hrockhill3@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
