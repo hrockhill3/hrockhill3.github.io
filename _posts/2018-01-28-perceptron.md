@@ -1,7 +1,7 @@
 ---
 title: "Perceptron"
-date: 2018-01-28
-tags: [data wrangling, data science, messy data]
+date: 2019-11-17
+tags: [Pricing, Pricing Strategy, Revenue Management, Inventory Management]
 header:
   image: "/images/perceptron/percept.jpg"
 excerpt: "Machine Learning, Perceptron, Data Science"
@@ -14,13 +14,13 @@ mathjax: "true"
 
 ### H3 Heading
 
-Here's some basic text.
+Basic text.
 
-And here's some *italics*
+Some *italics*
 
-Here's some **bold** text.
+Some **bold** text.
 
-What about a [link](https://github.com/dataoptimal)?
+Adding a [link](https://github.com/hrockhill3)?
 
 Here's a bulleted list:
 * First item
@@ -48,16 +48,16 @@ df <- read_csv("some_file.csv")
 head(df)
 ```
 
-Here's some inline code `x+y`.
+Some inline code `x+y`.
 
 Here's an image:
 <img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg" alt="linearly separable data">
 
-Here's another image using Kramdown:
+Another image using Kramdown:
 ![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
 
-Here's some math:
+Some math:
 
 $$z=x+y$$
 
-You can also put it inline $$z=x+y$$
+Also inline $$z=x+y$$
