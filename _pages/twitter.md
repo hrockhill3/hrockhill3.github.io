@@ -20,4 +20,4 @@ permalink: /twitter/
       </div>
     </div>
   </div>
-  </section
+  </section>
