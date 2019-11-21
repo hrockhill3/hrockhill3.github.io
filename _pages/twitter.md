@@ -1,15 +1,10 @@
 ---
-layout: single
 title: "Twitter feed"
 heading: "Twitter feed"
-excerpt: "Twitter feed."
-
 permalink: /twitter/
-
 ---
 
-Twitter feed placeholder:
-
+# Twitter feed placeholder
 
 <section id="main-description">
   <div class="container">
