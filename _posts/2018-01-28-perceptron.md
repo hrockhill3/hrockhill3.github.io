@@ -3,7 +3,7 @@ title: "From Casinos to Sports"
 date: 2020-01-14
 tags: [Pricing, Pricing Strategy, Revenue Management, Inventory Management]
 header:
-  image: "/images/perceptron/percept.jpg"
+  image: "/images/blogs/holding-sports-tickets-featured.jpg"
 excerpt: "Machine Learning, Perceptron, Data Science"
 mathjax: "true"
 ---
@@ -15,7 +15,7 @@ Are the skills and strategies to price a product or service universal? I certain
 
 I haven't spent the majority of my adult life behind a desk, it has spanned the United States Military, Government Affairs for the Banking Industry, and Circus Arts Performance and Instruction. That being said, I have spent the last few years in Revenue Management with Caesars Entertainment in Las Vegas all the while trying to figure out how best to combine my love for the performance industry and the pricing career I came to truly appreciate.
 
-It would be great to provide a "How to" on getting a job in sports but I wouldn't be the person to write it. My current position as Director of Ticketing Analytics at BSE Global and the Brooklyn Nets found me not the other way around. Anyone who may be looking to start a career in sports should reach out to my friends at [Sports Business Solutions](https://clubhouse.sportsbusiness.solutions/blog) about open opportunities.
+It would be great to provide a "How to" on getting a job in sports but I wouldn't be the person to write it. My current position as Director of Ticketing Analytics at BSE Global and the Brooklyn Nets found me not the other way around. Anyone who may be looking to start a career in sports should reach out to my friends at [Sports Business Solutions](https://clubhouse.sportsbusiness.solutions/blog) about open opportunities around the industry.
 
 Instead this will be more of a public learning experience on the application of hospitality revenue management practices and strategies in a sports and entertainment arena environment. I'll be explaining different forecasting techniques I use for varying sales channels and potential independent variables for each. I'll be speaking to different pricing strategies and the scenarios they might be best suited for. Additionally, I'll reach out to my network and friends around the hospitality, sports, and entertainment industries for their professional and academic opinions on various pricing and marketing strategy related topics. And occasionally, I'll offer my opinion on unrelated topics currently faced by professionals around the industry.
 
