@@ -85,8 +85,8 @@ analytics:
 # Site Author
 author:
   name             : "Harley Rockhill"
-  avatar           : "/images/linkedin.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Pricing and Inventory Management Professional"
+  avatar           : "/images/linkedin.jpg" # path of avatar image
+  bio              : "Pricing and Inventory Management"
   location         : "Brooklyn, NY"
   email            : #"hrockhill3@gmail.com"
   uri              :
@@ -97,7 +97,7 @@ author:
   github           : "hrockhill3"
   gitlab           :
   instagram        :
-  linkedin         : "harleyrockhill3" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "harleyrockhill3" #  (the last part of your profile url)
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
