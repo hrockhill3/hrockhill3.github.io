@@ -1,6 +1,6 @@
 ---
-title: "Perceptron"
-date: 2019-11-17
+title: "From Casinos to Sports"
+date: 2020-01-14
 tags: [Pricing, Pricing Strategy, Revenue Management, Inventory Management]
 header:
   image: "/images/perceptron/percept.jpg"
@@ -8,56 +8,16 @@ excerpt: "Machine Learning, Perceptron, Data Science"
 mathjax: "true"
 ---
 
-# H1 Heading
+# From Casinos to Sports
+### Revenue Management and Pricing Across Disciplines
 
-## H2 Heading
+Are the skills and strategies to price a product or service universal? I certainly hope so.
 
-### H3 Heading
+I haven't spent the majority of my adult life behind a desk, it has spanned the United States Military, Government Affairs for the Banking Industry, and Circus Arts Performance and Instruction. That being said, I have spent the last few years in Revenue Management with Caesars Entertainment in Las Vegas all the while trying to figure out how best to combine my love for the performance industry and the pricing career I came to truly appreciate.
 
-Basic text.
+It would be great to provide a "How to" on getting a job in sports but I wouldn't be the person to write it. My current position as Director of Ticketing Analytics at BSE Global and the Brooklyn Nets found me not the other way around. Anyone who may be looking to start a career in sports should reach out to my friends at [Sports Business Solutions](https://clubhouse.sportsbusiness.solutions/blog) about open opportunities.
 
-Some *italics*
+Instead this will be more of a public learning experience on the application of hospitality revenue management practices and strategies in a sports and entertainment arena environment. I'll be explaining different forecasting techniques I use for varying sales channels and potential independent variables for each. I'll be speaking to different pricing strategies and the scenarios they might be best suited for. Additionally, I'll reach out to my network and friends around the hospitality, sports, and entertainment industries for their professional and academic opinions on various pricing and marketing strategy related topics. And occasionally, I'll offer my opinion on unrelated topics currently faced by professionals around the industry.
 
-Some **bold** text.
-
-Adding a [link](https://github.com/hrockhill3)?
-
-Here's a bulleted list:
-* First item
-+ Second item
-- Third item
-
-Here's a numbered list:
-1. First
-2. Second
-3. Third
-
-Python code block:
-```python
-    import numpy as np
-
-    def test_function(x, y):
-      z = np.sum(x,y)
-      return z
-```
-
-R code block:
-```r
-library(tidyverse)
-df <- read_csv("some_file.csv")
-head(df)
-```
-
-Some inline code `x+y`.
-
-Here's an image:
-<img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg" alt="linearly separable data">
-
-Another image using Kramdown:
-![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
-
-Some math:
-
-$$z=x+y$$
-
-Also inline $$z=x+y$$
+Until next time,
+[Harley](https://www.linkedin.com/in/harleyrockhill3)
