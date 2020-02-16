@@ -257,7 +257,7 @@ defaults:
       show_date: false
   - scope:
       path: ""
-      type: projects
+      type: affiliate
     values:
       layout: single
       author_profile: true
