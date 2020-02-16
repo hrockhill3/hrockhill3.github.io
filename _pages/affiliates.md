@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /affiliate/
-title: "Affiliate"
+permalink: /affiliates/
+title: "Affiliates"
 author_profile: true
 header:
   image: "/images/BKbridge.jpg"
